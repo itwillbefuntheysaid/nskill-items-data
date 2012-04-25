@@ -152,7 +152,7 @@ end
 
 // MONK APU
 
-startstart
+start
 Crahn Aggressive Power Cloak
 req psi 80
 req apu 110
